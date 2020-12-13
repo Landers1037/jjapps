@@ -31,17 +31,31 @@ jjapps是我的个人全套微服务
 
 地址：[renj.io](http://renj.io)
 
+![1](imgs/1.png)
+
 ## mgek
 
 用来展示我的个人项目的网站，现在可能新的项目直接放在github了，但是这个网站应该上的项目介绍应该更为详细直观
 
 地址：[mgek](http://mgek.cc)
 
+![2](imgs/2.png)
+
 ## mgek doc
 
 独立的个人在线文档，基于marked渲染技术，方便md文档的在线查看
 
 地址：[mgek doc](http://doc.mgek.cc)
+
+![3](imgs/3.png)
+
+## blog
+
+我的个人博客
+
+地址：[blog](https://blog.renj.io)
+
+![4](imgs/4.png)
 
 ## resume
 
@@ -51,6 +65,8 @@ jjapps是我的个人全套微服务
 
 地址：[resume](http://me.renj.io)
 
+![4](imgs/5.png)
+
 ## jj系应用
 
 ## jjservice
@@ -59,11 +75,15 @@ jjapps是我的个人全套微服务
 
 地址：[jjservice](http://app.renj.io)
 
+![5](imgs/6.png)
+
 ## jjgo
 
 理想是集成所有服务的api接口 构造rest接口服务。现在看来实现的不够完全，仅集成了jjmail jjbox 服务
 
 地址：[jjgo](http://api.renj.io)
+
+![6](imgs/7.png)
 
 ## jjmail
 
